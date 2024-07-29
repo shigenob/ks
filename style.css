@@ -1,0 +1,33 @@
+h1,h2,h3,h4,h5 { color: red; }
+th,td{ color: blue; }
+option{color:
+orange;}
+.sheep{
+color: green;
+}
+#birth {
+color: green;
+}
+#favorite {
+color:yellow ;
+}
+.gradient {
+background: linear-gradient(to right , #38a092 , #fdbf3b);
+color: white;
+}
+.menu {
+display: flex;
+list-style: none;
+padding: 0;
+width: 100%;
+background: #01558d;
+color: white;
+}
+.menu li {
+width: 100%;
+text-align: center;
+padding: 10px 0;
+}
+.title {
+border: solid 1px black;
+}
